@@ -1,0 +1,17 @@
+Deel 1:
+
+treinrit kost 0.80€ per KM
+if treinrit >= 50 15€ en per km 0.60€
+if treinrit <= 0 weergeef altijd 0
+
+
+deel 2
+weekendreis
+als er in het weekend wordt gereisd dan:
+onder 12 of boven 65 jaar krijgen 35% korting
+tussen 12 en 65 jaar krijgen 40% korting
+
+door de weeks
+als er door de weeks wordt gereisd dan:
+onder 12 of boven 65 jaar krijgen 30% korting
+tussen 12 en 65 jaar krijgen geen korting
